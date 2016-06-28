@@ -1,3 +1,4 @@
 l'artichaut c'est trop bon.
 vive les patates
 auucun rapport
+\n *vive l'artichaut*
